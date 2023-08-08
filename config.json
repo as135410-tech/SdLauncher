@@ -1,0 +1,4 @@
+{
+	"startScript": "..\\stable_diffusion\\webui-user.bat",
+	"root":"..\\stable_diffusion"
+}
